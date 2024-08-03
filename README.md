@@ -1,13 +1,13 @@
 # lc_2024
 
 ## Intro Topics
-1) array
-2) hashmap and set
-3) 2 pointers
-4) stack
-5) linkedlist
-6) binary search
-7) sliding window
+1) Array
+2) Hashmap and Set
+3) 2 Pointers
+4) Stack
+5) Linked List
+6) Binary Search
+7) Sliding Window
 
 ## Advanced Topics
 1) Trees
