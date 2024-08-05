@@ -1,5 +1,8 @@
 # lc_2024
 
+## Problem Count
+
+
 ## Intro Topics
 1) Array
 2) Hashmap and Set
